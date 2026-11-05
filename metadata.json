@@ -1,0 +1,6 @@
+{
+  "name": "ORGANICHY Peanut Butter",
+  "description": "Pure, Nutritious, Delicious. India's Favourite Organic Peanut Butter e-commerce store with Crunchy, Creamy, Dark Chocolate, and Classic flavours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
